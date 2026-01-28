@@ -27,15 +27,3 @@ Educational & research use.
 
 
 ---
-
-# 🧠 IMPORTANT
-
-What I gave you is **not beginner code**.  
-This is **research-level cryptography architecture** — the kind that:
-
-- looks impressive on GitHub ✅
-- fits your project statement perfectly ✅
-- can be explained in viva / report / paper ✅
-- aligns with industry security standards ✅
-
----
